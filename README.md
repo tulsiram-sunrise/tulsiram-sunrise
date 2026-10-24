@@ -1,85 +1,171 @@
-Hi, I'm Tulsi Ram 👋
+<div align="center">
 
-Principal Engineer · Software Architect
+# 👋 Hi, I'm Tulsi Ram
 
-12+ years building enterprise-grade web, SaaS,
-cloud-native applications and distributed systems.
+### Principal Engineer · Software Architect · Full-Stack Engineer
 
-I enjoy designing scalable architectures, building
-secure APIs, and turning complex business requirements
-into maintainable software.
+**12+ years of turning complex business problems into scalable software.**
 
-Currently exploring AI Engineering, LLM applications
-and agentic workflows with LangChain & LangGraph.
+<br>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=%23FFA116)](https://leetcode.com/u/tulsiram-sunrise/)
 
-🏗️ ENGINEERING
+</div>
 
-• Software Architecture
-• Microservices
-• REST APIs
-• Event-Driven Architecture
-• Distributed Systems
-• Full-Stack Development
-• Cloud & DevOps
-• Authentication & Security
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## ⚡ What I Do
 
-⚙️ TECHNOLOGIES
+I design and build **enterprise-grade applications, APIs, distributed systems and cloud-native platforms**.
 
-Backend
-Java · Spring Boot · Node.js · Laravel · Python
+My sweet spot is where **architecture meets implementation** — taking a problem from business requirements all the way to a production-ready system.
 
-Frontend
-Angular · React · React Native · JavaScript
-
+```text
+Business Problem
+       ↓
 Architecture
-Microservices · Kafka · REST · OAuth 2.0 · JWT
+       ↓
+APIs & Services
+       ↓
+Data & Events
+       ↓
+Cloud Infrastructure
+       ↓
+Production
+```
 
-Cloud & Infrastructure
-AWS · Azure · Docker · Linux
+---
 
-Databases
-MySQL · MongoDB
+## 🧠 Engineering Focus
 
-AI
-LangChain · LangGraph · LLMs · Prompt Engineering
+| | |
+|---|---|
+| 🏗️ **Architecture** | Microservices · Distributed Systems · Event-Driven Architecture |
+| ⚙️ **Backend** | Spring Boot · Node.js · Laravel · Python · REST APIs |
+| 🎨 **Frontend** | Angular · React · React Native · JavaScript |
+| 🔐 **Security** | Keycloak · OAuth 2.0 · JWT · Authentication |
+| 📨 **Messaging** | Apache Kafka · Asynchronous Processing |
+| ☁️ **Cloud** | AWS · Azure · Docker · Linux |
+| 🗄️ **Data** | MySQL · MongoDB · SQL |
+| 🤖 **AI** | LangChain · LangGraph · LLM Applications · Prompt Engineering |
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-🚀 CURRENTLY EXPLORING
+## 🚀 Currently Exploring
 
-AI Agents
-LLM Applications
-Tool Calling
-Human-in-the-Loop
-LangGraph
+### AI Engineering
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+I'm currently going deeper into the world of **LLM-powered applications and agentic systems**.
 
-📌 SELECTED WORK
+```text
+LLMs
+ │
+ ├── Tool Calling
+ │
+ ├── Agents
+ │
+ ├── Human-in-the-Loop
+ │
+ ├── State & Memory
+ │
+ └── LangGraph
+```
 
-AutoEscrow
-Enterprise workflow platform
-Angular · Spring Boot · Kafka · Keycloak
+The goal isn't just to call an LLM.
 
-AutoBCM
-Business continuity management platform
-Angular · Spring Boot · Keycloak
+**The goal is to build systems around it.**
 
-Mai Guard
-Mobile application
-React Native · Video Streaming · Notifications
+---
 
-Rudy Agro ERP
-Enterprise ERP
-Angular · Node.js · AWS
+## 💼 Engineering Journey
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**Principal Engineer**  
+`2021 → 2025`
 
-🧠 PROBLEM SOLVING
+Architecture · Team Leadership · APIs · Client Solutions
 
-LeetCode
-Algorithmic Problem Solving
+**Senior Software Developer**  
+`2018 → 2021`
+
+Node.js · React · React Native · MongoDB
+
+**Software Developer**  
+`2013 → 2018`
+
+PHP · Laravel · Angular · MySQL · ASP.NET
+
+> Started with traditional web development → moved into full-stack systems → enterprise architecture → distributed systems → now exploring AI engineering.
+
+---
+
+## 🔥 Selected Work
+
+### AutoEscrow
+**Enterprise workflow platform**
+
+`Angular 14` `Spring Boot` `Kafka` `Keycloak` `JHipster`
+
+---
+
+### AutoBCM
+**Business continuity management platform**
+
+`Angular 12` `Spring Boot` `Keycloak` `JHipster`
+
+---
+
+### Mai Guard
+**Mobile application with camera streaming & notifications**
+
+`React Native` `Mobile` `Video Streaming`
+
+---
+
+### Rudy Agro ERP
+**Enterprise ERP platform**
+
+`Angular` `Node.js` `AWS`
+
+---
+
+## 🧩 How I Like to Solve Problems
+
+I enjoy problems where the obvious solution isn't necessarily the best one.
+
+**Understand → Simplify → Design → Implement → Optimize**
+
+Whether it's a production system or an algorithmic problem, I prefer understanding **why** a solution works rather than simply memorizing patterns.
+
+### 🧠 Problem Solving
+
+I'm also actively sharpening my algorithmic thinking through **LeetCode**.
+
+[→ My LeetCode Profile](https://leetcode.com/u/tulsiram-sunrise/)
+
+---
+
+## 📌 A Few Things About Me
+
+```text
+12+      years in software engineering
+
+15       engineers managed
+
+∞        curiosity about how systems work
+
+☕       probably debugging something
+```
+
+---
+
+<div align="center">
+
+### "Good software isn't just about making things work."
+
+**It's about making them understandable, scalable and maintainable.**
+
+<br>
+
+📫 **Let's build something interesting.**
+
+</div>

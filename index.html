@@ -173,6 +173,41 @@
       margin-bottom: 27px;
       font-size: .75rem;
     }
+    
+    .hero-intro {
+      display: flex;
+      align-items: center;
+      gap: 18px;
+      margin-bottom: 27px;
+    }
+    
+    .hero-intro .availability {
+      margin-bottom: 7px;
+    }
+    
+    .profile-photo {
+      width: 76px;
+      height: 76px;
+      flex-shrink: 0;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 2px solid #a3ffcb;
+      padding: 3px;
+      background: #11141c;
+      box-shadow: 0 0 24px rgba(163, 255, 203, 0.12);
+    }
+    
+    @media (max-width: 480px) {
+      .hero-intro {
+        gap: 12px;
+      }
+    
+      .profile-photo {
+        width: 62px;
+        height: 62px;
+      }
+    }
+
 
     .pulse {
       width: 7px;
@@ -587,8 +622,25 @@
       <div class="container hero-grid">
         <div>
           <div class="availability">
-            <span class="pulse"></span>
-            Principal Engineer · Gurugram, India
+            
+            <div class="hero-intro">
+              <img
+                src="./profile.jpg"
+                alt="Tulsi Ram — Principal Engineer"
+                class="profile-photo"
+                width="76"
+                height="76"
+              />
+            
+              <div>
+                <div class="availability">
+                  <span class="pulse"></span>
+                  Principal Engineer · Gurugram, India
+                </div>
+                <p class="mono muted">FULL-STACK ENGINEERING · ARCHITECTURE</p>
+              </div>
+            </div>
+
           </div>
 
           <p class="eyebrow">Engineering &amp; Architecture</p>

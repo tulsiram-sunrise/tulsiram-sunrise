@@ -1,16 +1,85 @@
-## Hi there 👋
+Hi, I'm Tulsi Ram 👋
 
-<!--
-**tulsiram-sunrise/tulsiram-sunrise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Principal Engineer · Software Architect
 
-Here are some ideas to get you started:
+12+ years building enterprise-grade web, SaaS,
+cloud-native applications and distributed systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy designing scalable architectures, building
+secure APIs, and turning complex business requirements
+into maintainable software.
+
+Currently exploring AI Engineering, LLM applications
+and agentic workflows with LangChain & LangGraph.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏗️ ENGINEERING
+
+• Software Architecture
+• Microservices
+• REST APIs
+• Event-Driven Architecture
+• Distributed Systems
+• Full-Stack Development
+• Cloud & DevOps
+• Authentication & Security
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚙️ TECHNOLOGIES
+
+Backend
+Java · Spring Boot · Node.js · Laravel · Python
+
+Frontend
+Angular · React · React Native · JavaScript
+
+Architecture
+Microservices · Kafka · REST · OAuth 2.0 · JWT
+
+Cloud & Infrastructure
+AWS · Azure · Docker · Linux
+
+Databases
+MySQL · MongoDB
+
+AI
+LangChain · LangGraph · LLMs · Prompt Engineering
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 CURRENTLY EXPLORING
+
+AI Agents
+LLM Applications
+Tool Calling
+Human-in-the-Loop
+LangGraph
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📌 SELECTED WORK
+
+AutoEscrow
+Enterprise workflow platform
+Angular · Spring Boot · Kafka · Keycloak
+
+AutoBCM
+Business continuity management platform
+Angular · Spring Boot · Keycloak
+
+Mai Guard
+Mobile application
+React Native · Video Streaming · Notifications
+
+Rudy Agro ERP
+Enterprise ERP
+Angular · Node.js · AWS
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🧠 PROBLEM SOLVING
+
+LeetCode
+Algorithmic Problem Solving
